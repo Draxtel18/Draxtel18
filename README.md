@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Geuseppe lara 👨‍💻
+# 👋 ¡Hola! Soy Geuseppe Lara 👨‍💻
 
 Soy desarrollador backend en formación, enfocado en arquitectura de sistemas, microservicios y herramientas DevOps. Me apasiona construir soluciones escalables, bien estructuradas y que se integren de forma fluida en entornos modernos de desarrollo.
 
@@ -27,7 +27,7 @@ Proyecto full stack presentado en la Feria Tecnológica de la UTP. Incluye auten
 
 - 📧 Email: geuseppe18@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/geuseppe-lara](https://www.linkedin.com/in/geuseppe-lara-garciaurrutia-8862641b3/)
-- 💻 GitHub: [github.com/geuseppe18](https://github.com/geuseppe18)
+- 💻 GitHub: [github.com/Draxtel18](https://github.com/Draxtel18)
 
 ---
 
