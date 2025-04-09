@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Geuseppe lara 👨‍💻
 
-<!--
-**Draxtel18/Draxtel18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador backend en formación, enfocado en arquitectura de sistemas, microservicios y herramientas DevOps. Me apasiona construir soluciones escalables, bien estructuradas y que se integren de forma fluida en entornos modernos de desarrollo.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías que manejo
+
+- 💻 Lenguajes: Java, SQL
+- 🧱 Frameworks: Spring Boot, Spring Security, Spring Data JPA, Hibernate
+- 🐘 Bases de datos: MySQL, PostgreSQL
+- ⚙️ DevOps & Herramientas: Git, GitHub, Linux (básico), Postman
+- 🛠 IDEs: IntelliJ IDEA, VS Code
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🎯 Sistema de gestión de finanzas
+Sistema personal para organizar ahorros, gastos e ingresos. Desarrollado en Vue.js con integración a Supabase y gráficos con Chart.js.
+
+### 🌐 Foro estilo Reddit para comunidad universitaria
+Proyecto full stack presentado en la Feria Tecnológica de la UTP. Incluye autenticación, gestión de publicaciones, subida de imágenes, likes y comentarios.
+> 🔧 Stack: Spring Boot, Thymeleaf, Spring Security, Hibernate, JPA, Git
+---
+
+## 📫 Contacto
+
+- 📧 Email: geuseppe18@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/geuseppe-lara](https://www.linkedin.com/in/geuseppe-lara-garciaurrutia-8862641b3/)
+- 💻 GitHub: [github.com/geuseppe18](https://github.com/geuseppe18)
+
+---
+
+¡Gracias por pasarte por mi perfil! 😊
+
