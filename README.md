@@ -8,7 +8,7 @@ Soy desarrollador backend en formación, enfocado en arquitectura de sistemas, m
 - 💻 Lenguajes: Java, SQL
 - 🧱 Frameworks: Spring Boot, Spring Security, Spring Data JPA, Hibernate
 - 🐘 Bases de datos: MySQL, PostgreSQL
-- ⚙️ DevOps & Herramientas: Git, GitHub, Linux (básico), Postman
+- ⚙️ DevOps & Herramientas: Git, GitHub, Linux (básico), Postman, Docker (básico), CI/CD con GitHub Actions.
 - 🛠 IDEs: IntelliJ IDEA, VS Code
 
 ---
